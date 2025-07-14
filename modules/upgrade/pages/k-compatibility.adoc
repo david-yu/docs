@@ -63,7 +63,7 @@ d|1.28.x - 1.32.x{fn-k8s-compatibility}
 |25.1.1-betaX, 0.4.41, 0.4.36, 0.4.29
 |25.1.1-betaX, 2.4.x, 2.3.x, 2.2.x
 |3.11+
-d|1.28.x - 1.31.x{fn-k8s-compatibility}
+d|1.27.x - 1.30.x{fn-k8s-compatibility}
 
 |24.2.x
 |5.9.x, 5.8.x
